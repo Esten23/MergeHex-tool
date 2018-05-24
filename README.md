@@ -1,3 +1,4 @@
+![](https://github.com/Esten23/MergeHex-tools/blob/master/mergeHEX/merge.png)
 # MergeHex-tools
 
 用于HEX文件合并的小工具
