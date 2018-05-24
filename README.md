@@ -10,4 +10,4 @@
 ## 使用说明
 ----------
  
- 在QtCreator中新建一个***widget***工程，基类选择***QWidget***,类名为***mergeWidget***,然后把对应内容复制到文件到，运行编译即可。
+ 在QtCreator中新建一个 **widget** 工程，基类选择 **QWidget** ,类名为 **mergeWidget** ,然后把对应内容复制到文件到，运行编译即可。
