@@ -35,6 +35,8 @@ private:
     int number2=0;
     QString line1[4096];  //boot文件总行数--150KB
     QString line2[8192];  //app文件总行数--300KB
+    //如果文件过大，会导致程序崩溃！可根据需要调整此处大小，或者修改程序逻辑。
+    
     //buttons
     QPushButton *file1Button;
     QPushButton *file2Button;
