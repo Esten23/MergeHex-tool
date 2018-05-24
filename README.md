@@ -1,6 +1,6 @@
 ![](https://github.com/Esten23/MergeHex-tools/blob/master/mergeHEX/merge.png)
 # MergeHex-tools
-
+![](https://img.shields.io/badge/Powered%20by-Esten23-brightgreen.svg)
 用于HEX文件合并的小工具
 ## 内容说明
 ---
