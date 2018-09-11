@@ -2,7 +2,7 @@
 # MergeHex-tool
 ![](https://img.shields.io/badge/Powered%20by-Esten23-brightgreen.svg)
 ![](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)<br><br>
-用于HEX文件合并的小工具
+Merge HEX file.
 ## 内容说明
   源码位于mergeHEX文件夹下，包含一个头文件和一个源文件。<br>
 ## 使用说明
